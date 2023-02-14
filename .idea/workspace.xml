@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c096ab52-600c-4fa2-87e7-b74a5da03592" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/ArticleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/ArticleRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/ArticleRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarnMe.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package.json" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LY8362lTEKySRMhTwMrUbmZX3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OLAITAN BLESSING/IdeaProjects/JavaStarts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories" />
+      <recent name="data.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserRepositoryImplTest.saveMoreThanOneUsers_deleteAll_countThatUsersAreZeroTest">
+    <configuration name="CommentRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest.saveOneComment_deleteOneComment_countThatCommentIsNowZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneComment_deleteOneComment_countThatCommentIsNowZeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest.saveOneComment_idOfCommentIsOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneComment_idOfCommentIsOneTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest.saveTwoComment_idOfUserIsOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveTwoComment_idOfUserIsOneTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryImplTest.saveMoreThanOneUsers_deleteAll_countThatUsersAreZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yarnMe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.UserRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveMoreThanOneUsers_deleteAll_countThatUsersAreZeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRepositoryImplTest.saveMoreThanOneUsers_deleteAll_countThatUsersAreZeroTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.saveOneComment_deleteOneComment_countThatCommentIsNowZeroTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.saveTwoComment_idOfUserIsOneTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.saveOneComment_idOfCommentIsOneTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c096ab52-600c-4fa2-87e7-b74a5da03592" name="Changes" comment="" />
+      <created>1676036457312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676036457312</updated>
+      <workItem from="1676036459302" duration="7212000" />
+      <workItem from="1676149308140" duration="346000" />
+      <workItem from="1676218932194" duration="9299000" />
+      <workItem from="1676323270088" duration="2290000" />
+      <workItem from="1676354267711" duration="2920000" />
+      <workItem from="1676369614267" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
